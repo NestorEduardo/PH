@@ -1,0 +1,1 @@
+export const phWhatsAppLink = "https://api.whatsapp.com/message/NC2SZMMC7X7WC1?autoload=1&app_absent=0"
